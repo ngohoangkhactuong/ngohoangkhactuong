@@ -41,7 +41,7 @@
   </a>
     <a href="https://www.coursera.org/account/accomplishments/certificate/LHEFG3V6BYB7">
     <img alt="Python Project for Data Engineering" title="Python Project for Data Engineering" 
-    src="https://media.licdn.com/dms/image/sync/D4E27AQGMpgfSiWJwcg/articleshare-shrink_1280_800/0/1682001941963?e=1682607600&v=beta&t=c6UZGm4Cko4xxfSOHXczsitxaOVakSlYxVR76dOdQH8g" width="500px" />
+    src="https://media.licdn.com/dms/image/sync/D4E27AQGMpgfSiWJwcg/articleshare-shrink_1280_800/0/1682001941963?e=1682607600&v=beta&t=c6UZGm4Cko4xxfSOHXczsitxaOVakSlYxVR76dOdQH8" width="500px" />
   </a>
 </p>
 </p>
