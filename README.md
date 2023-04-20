@@ -26,11 +26,15 @@
 
 
 <br/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngohoangkhactuong&show_icons=true&locale=en&layout=compact" alt="ngohoangkhactuong" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngohoangkhactuong&" alt="ngohoangkhactuong" /></p>
 <br/>
+
 <h1 align="left">Certificates:</h1>
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/HB8KQNCC7Q9F">
-    <img alt="Duke university java problem sovling skills" title="Java problem sovling skills" src="Certificates/Solving-Problems-with-java.png" width="300px" />
+  <a href="https://www.coursera.org/account/accomplishments/certificate/28ANJYBTXEAZ">
+    <img alt="" title="Database and SQL for Data Science with Python" src="https://www.coursera.org/account/accomplishments/certificate/28ANJYBTXEAZ" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/WD25S8XXVNP2">
     <img alt="Object Oriented Programming in Java" title="Object Oriented Programming in Java" src="Certificates/Object-Oriented-Programming-in-Java.png" width="300px" />
