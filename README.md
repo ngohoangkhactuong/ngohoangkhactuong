@@ -34,7 +34,7 @@
 <h1 align="left">Certificates:</h1>
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/28ANJYBTXEAZ">
-    <img alt="" title="Database and SQL for Data Science with Python" src="https://www.coursera.org/account/accomplishments/certificate/28ANJYBTXEAZ" width="300px" />
+    <img alt="Database and SQL for Data Science with Python" title="Database and SQL for Data Science with Python" src="https://media.licdn.com/dms/image/sync/D4E27AQEpdpXZSpKpEw/articleshare-shrink_1280_800/0/1682001521835?e=1682607600&v=beta&t=VALIxu7qdpxuQMfcNG1ZGYwzUOBUzpwFy63sdAUmMzE" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/WD25S8XXVNP2">
     <img alt="Object Oriented Programming in Java" title="Object Oriented Programming in Java" src="Certificates/Object-Oriented-Programming-in-Java.png" width="300px" />
