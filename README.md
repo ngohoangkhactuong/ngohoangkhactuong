@@ -34,23 +34,14 @@
 <h1 align="left">Certificates:</h1>
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/28ANJYBTXEAZ">
-    <img alt="Database and SQL for Data Science with Python" title="Database and SQL for Data Science with Python" src="https://media.licdn.com/dms/image/sync/D4E27AQEpdpXZSpKpEw/articleshare-shrink_1280_800/0/1682001521835?e=1682607600&v=beta&t=VALIxu7qdpxuQMfcNG1ZGYwzUOBUzpwFy63sdAUmMzE" width="300px" />
+    <img alt="Database and SQL for Data Science with Python" title="Database and SQL for Data Science with Python" src="https://media.licdn.com/dms/image/sync/D4E27AQEpdpXZSpKpEw/articleshare-shrink_1280_800/0/1682001521835?e=1682607600&v=beta&t=VALIxu7qdpxuQMfcNG1ZGYwzUOBUzpwFy63sdAUmMzE" width="500px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/WD25S8XXVNP2">
-    <img alt="Object Oriented Programming in Java" title="Object Oriented Programming in Java" src="Certificates/Object-Oriented-Programming-in-Java.png" width="300px" />
+  <a href="https://www.coursera.org/account/accomplishments/certificate/S8U86Q3UCCG6">
+    <img alt="Python for Data Science , AI & Development" title="Python for Data Science , AI & Development" src="https://media.licdn.com/dms/image/sync/D4E27AQHOLF1xe22J6A/articleshare-shrink_1280_800/0/1682001830225?e=1682607600&v=beta&t=838h_CStdYZg1_wAVPJoxbqHKssNhBXbkiXh1n7cQu8" width="500px" />
   </a>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/XV3KMJELHF6Q">
-    <img alt="Fundamentals of Digital Image and Video" title="Fundamentals of Digital Image and Video" 
-    src="Certificates/Fundamentals-of-Digital-Image-and-Video.png" width="300px" />
+    <a href="https://www.coursera.org/account/accomplishments/certificate/LHEFG3V6BYB7">
+    <img alt="Python Project for Data Engineering" title="Python Project for Data Engineering" 
+    src="https://media.licdn.com/dms/image/sync/D4E27AQGMpgfSiWJwcg/articleshare-shrink_1280_800/0/1682001941963?e=1682607600&v=beta&t=c6UZGm4Cko4xxfSOHXczsitxaOVakSlYxVR76dOdQH8g" width="500px" />
   </a>
 </p>
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/WDBXJQK2BCEL">
-    <img alt="Programming Foundations with JavaScript, HTML and CSS" title="Programming Foundations with JavaScript, HTML and CSS" 
-    src="Certificates/Programming-Foundations-with-JavaScript-HTML.png" width="300px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/7W6KSWKG8AWM">
-    <img alt="Version Control" title="Version Control" 
-    src="Certificates/Version-Control.png" width="300px" />
-  </a>
 </p>
