@@ -30,18 +30,3 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngohoangkhactuong&" alt="ngohoangkhactuong" /></p>
 <br/>
-
-<h1 align="left">Certificates:</h1>
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/28ANJYBTXEAZ">
-    <img alt="Database and SQL for Data Science with Python" title="Database and SQL for Data Science with Python" src="https://media.licdn.com/dms/image/sync/D4E27AQEpdpXZSpKpEw/articleshare-shrink_1280_800/0/1682001521835?e=1682607600&v=beta&t=VALIxu7qdpxuQMfcNG1ZGYwzUOBUzpwFy63sdAUmMzE" width="500px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/S8U86Q3UCCG6">
-    <img alt="Python for Data Science , AI & Development" title="Python for Data Science , AI & Development" src="https://media.licdn.com/dms/image/sync/D4E27AQHOLF1xe22J6A/articleshare-shrink_1280_800/0/1682001830225?e=1682607600&v=beta&t=838h_CStdYZg1_wAVPJoxbqHKssNhBXbkiXh1n7cQu8" width="500px" />
-  </a>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/LHEFG3V6BYB7">
-    <img alt="Python Project for Data Engineering" title="Python Project for Data Engineering" 
-    src="https://media.licdn.com/dms/image/sync/D4E27AQGMpgfSiWJwcg/articleshare-shrink_1280_800/0/1682001941963?e=1682607600&v=beta&t=c6UZGm4Cko4xxfSOHXczsitxaOVakSlYxVR76dOdQH8" width="500px" />
-  </a>
-</p>
-</p>
